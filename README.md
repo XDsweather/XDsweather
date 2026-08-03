@@ -33,7 +33,7 @@
 
 ### 🐍 Contribution Snake
 
-https://github.com/XDsweather/XDsweather/blob/output/github-contribution-grid-snake.gif
+https://raw.githubusercontent.com/XDsweather/XDsweather/output/github-contribution-grid-snake-dark.svg
 
 ---
 
