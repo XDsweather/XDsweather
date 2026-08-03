@@ -15,6 +15,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 
 ---
+### 🐍 Contribution Snake
 
 ### 📊 GitHub Stats
 <p align="center">
