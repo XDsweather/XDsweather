@@ -1,13 +1,13 @@
 # Hi there, I'm Alisher 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=435&lines=Software+Developer;Contemporary+UI%2FUX+Enthusiast;Building+Awesome+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=450&lines=Software+Developer;Contemporary+UI%2FUX+Enthusiast;Building+Awesome+Applications" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Passionate **Software Developer** crafting high-performance, modern desktop software & web services.
+- 🚀 Passionate **Software Developer** crafting high-performance desktop software & web services.
 - 🎨 Focused on bringing **contemporary UI/UX design** and smooth user experiences to software systems.
 - 🛠️ Currently expanding expertise in **C++, Python, Godot Engine, and Web Technologies**.
 - 💡 Always building startups, optimizing workflows, and turning complex ideas into functional products.
@@ -33,7 +33,7 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/XDsweather/XDsweather/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/XDsweather/XDsweather/output/github-contribution-grid-snake-dark.svg?v=1)
 
 ---
 
